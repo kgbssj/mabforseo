@@ -1,29 +1,39 @@
 Q1: What is the fastest way to get to London from Seoul?
-A1:
+A1: Take a flight from Incheon Airport to London Heathrow Airport https://www.rome2rio.com/map/London/Seoul
+QU1: (Seoul, to, London), (fastest, way)
 
-Q2: 러브홀릭 2집 콘서트를 했나요?
-A2:
+Q2: 러브홀릭 2집 콘서트를 어디서 했나요?
+A2: 이촌동 서울 스튜디오 https://www.nocutnews.co.kr/news/28298
+QU2: (러브홀릭, 콘서트), (2집)
 
 Q3: Does Elon Musk like Chinese food?
-A3:
+A3: Yes he does http://www.globaltimes.cn/content/1163517.shtml
+QU3: (Elon, Musk, Chinese), (like, food)
 
-Q4: How much is one-year tuition for Priceton University graudate school?
-A4:
+Q4: How much is one-year tuition for Princeton University graudate school?
+A4: For graduate school, the tuition and fees are $51,250 for academic year 2018-2019. The estimated graduate school tuition & fees at Princeton University is $53,669 for academic year 2019-2020. https://www.collegetuitioncompare.com/edu/186131/princeton-university/tuition/
+QU4: (tuition, Princeton, University), (graduate, school)
 
 Q5: 칭기즈칸은 몇 년에 사망하였나요?
-A5:
+A5: 1227년 8월 25일 https://ko.wikipedia.org/wiki/%EC%B9%AD%EA%B8%B0%EC%A6%88_%EC%B9%B8
+QU5: (칭기즈칸, 사망), (몇년)
 
 Q6: When did Claude Shannon write his famous book on Communication Theory?
-A6:
+A6: Shannon's most important paper, 'A mathematical theory of communication,' was published in 1948. https://www.itsoc.org/about/shannon
+QU6: (Claude, Shannon, book), (Communication, Theory)
 
 Q7: 鲁迅写了几本书？
-A7:
+A7: 62本书 https://zhidao.baidu.com/question/341800975.html?fr=iks&word=%C2%B3%D1%B8%B5%C4%CA%E9&ie=gbk
+QU7: （鲁迅书），（几本）
 
 Q8: Who proposed LSTM for the first time?
-A8:
+A8: 1997 by Sepp Hochreiter and Jürgen Schmidhuber， https://en.wikipedia.org/wiki/Long_short-term_memory
+QU8: (Who, proposed, LSTM), (first, time)
 
 Q9: How did Cold War end?
-A9:
+A9:During 1989 and 1990, the Berlin Wall came down, borders opened, and free elections ousted Communist regimes everywhere in eastern Europe. In late 1991 the Soviet Union itself dissolved into its component republics. With stunning speed, the Iron Curtain was lifted and the Cold War came to an end. https://americanhistory.si.edu/subs/history/timeline/end/
+QU9: (Cold, War, end), (How, did)
 
 Q10: 清代最后的皇帝是谁？
-A10:
+A10: 爱新觉罗·溥仪 https://baike.baidu.com/item/%E7%88%B1%E6%96%B0%E8%A7%89%E7%BD%97%C2%B7%E6%BA%A5%E4%BB%AA/402281?fromtitle=%E6%BA%A5%E4%BB%AA&fromid=373386
+QU10: （清皇帝），（最后）
